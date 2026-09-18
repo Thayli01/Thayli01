@@ -38,11 +38,11 @@ Estudiante de **Ingeniería de Sistemas**, enfocado en el desarrollo de software
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Thayli01&show_icons=true&theme=dark&hide_border=true" />
 </p>
-
-</div>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Thayli01&theme=dark&hide_border=true" />
+</p>
