@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20Soy%20Thayli&fontSize=40&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20Soy%20Thayli%20Yanasupo&fontSize=40&fontColor=fff" />
 </p>
 
 Estudiante de **Ingeniería de Sistemas**, enfocada en el desarrollo de software, arquitectura de sistemas y resolución de problemas mediante tecnología. Me apasiona aprender nuevas herramientas y construir proyectos eficientes.
