@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy [Thayli Yanasupo] 👋
 ### 🎓 Estudiante de Ingeniería de Sistemas | Software Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre mí
 
-Estudiante de **Ingeniería de Sistemas**, enfocado en el desarrollo de software, arquitectura de sistemas y resolución de problemas mediante tecnología. Me apasiona aprender nuevas herramientas y construir proyectos eficientes.
+Estudiante de **Ingeniería de Sistemas**, enfocada en el desarrollo de software, arquitectura de sistemas y resolución de problemas mediante tecnología. Me apasiona aprender nuevas herramientas y construir proyectos eficientes.
 
 ---
 
