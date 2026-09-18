@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20Soy%20Thayli&fontSize=40&fontColor=fff" />
 </p>
 
-# ¡Hola! I'm Thayli Yanasupo 👋
-### 🎓 Estudiante de Ingeniería de Sistemas | Software Developer
+Estudiante de **Ingeniería de Sistemas**, enfocada en el desarrollo de software, arquitectura de sistemas y resolución de problemas mediante tecnología. Me apasiona aprender nuevas herramientas y construir proyectos eficientes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
@@ -11,27 +10,21 @@
 
 ---
 
-### 🚀 Sobre mí
-
-Estudiante de **Ingeniería de Sistemas**, enfocada en el desarrollo de software, arquitectura de sistemas y resolución de problemas mediante tecnología. Me apasiona aprender nuevas herramientas y construir proyectos eficientes.
-
----
-
 ### 🛠️ Tech Stack & Herramientas
 
-#### Lenguajes de Programación
+#### Lenguajes de programación
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### Frameworks & Backend
+#### Frameworks & backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-#### Bases de Datos & Herramientas
+#### Bases de Datos & herramientas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
