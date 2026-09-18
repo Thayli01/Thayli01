@@ -12,13 +12,9 @@ Apasionada por el desarrollo backend, diseño de bases de datos y arquitectura d
 
 ## 🚀 About Me
 
-Soy **Thayli**, estudiante de Ingeniería de Sistemas en la **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)**.
+Soy **Thayli**, estudiante de Ingeniería de Sistemas en la **Universidad Nacional de San Cristóbal de Huamanga**.
 
-Me enfoco en construir sistemas backend sólidos y bien estructurados, y en entender a fondo cómo diseñar bases de datos eficientes.
-
-Actualmente sigo mejorando mis habilidades en **JavaScript, Python, Java y Node.js**, y trabajando con **PostgreSQL y MySQL**.
-
-Mi meta es escribir código limpio y crecer como ingeniera de software.
+Me enfoco en construir sistemas backend sólidos y bien estructurados, y en entender a fondo cómo diseñar bases de datos eficientes. Actualmente sigo mejorando mis habilidades en **JavaScript, Python, Java y Node.js**, y trabajando con **PostgreSQL y MySQL**. Mi meta es escribir código limpio y crecer como ingeniera de software.
 
 ---
 
@@ -26,7 +22,7 @@ Mi meta es escribir código limpio y crecer como ingeniera de software.
 
 <p align="center">
 <a href="https://github.com/Thayli01"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="mailto:tu_correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:thayli.yanasupo.27@unsch.edu.pe"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
