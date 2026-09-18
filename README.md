@@ -1,33 +1,58 @@
-# ¡Hola! Soy Thayli Yanasupo 👨‍💻
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20Soy%20Thayli&fontSize=40&fontColor=fff" />
+</p>
 
-🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)**.
-💡 Apasionado por el desarrollo backend, diseño de bases de datos y arquitectura de software.
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-**Lenguajes & Backend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Bases de Datos**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 Mis Estadísticas en GitHub
+<h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+Apasionada por el desarrollo backend, diseño de bases de datos y arquitectura de software.
 </p>
 
 ---
 
-### 📫 Contacto
+## 🚀 About Me
 
-[![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thayli.yanasupo.27@unsch.edu.pe)
+Soy **Thayli**, estudiante de Ingeniería de Sistemas en la **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)**.
+
+Me enfoco en construir sistemas backend sólidos y bien estructurados, y en entender a fondo cómo diseñar bases de datos eficientes.
+
+Actualmente sigo mejorando mis habilidades en **JavaScript, Python, Java y Node.js**, y trabajando con **PostgreSQL y MySQL**.
+
+Mi meta es escribir código limpio y crecer como ingeniera de software.
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+<a href="https://github.com/Thayli01"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="mailto:tu_correo@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,python,java,nodejs,postgres,mysql,git,html,css,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Thayli01&show_icons=true&theme=dark&hide_border=true" />
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Thayli01&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thayli01&theme=react-dark&hide_border=true" />
+</p>
