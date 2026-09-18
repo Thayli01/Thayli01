@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20👋,%20Soy%20Thayli&fontSize=40&fontColor=fff" />
+</p>
 
 # ¡Hola! I'm Thayli Yanasupo 👋
 ### 🎓 Estudiante de Ingeniería de Sistemas | Software Developer
