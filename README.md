@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy [Thayli Yanasupo] 👋
+# ¡Hola! I'm Thayli Yanasupo 👋
 ### 🎓 Estudiante de Ingeniería de Sistemas | Software Developer
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
