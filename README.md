@@ -4,9 +4,9 @@
 
 Estudiante de **Ingeniería de Sistemas**, enfocada en el desarrollo de software, arquitectura de sistemas y resolución de problemas mediante tecnología. Me apasiona aprender nuevas herramientas y construir proyectos eficientes.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thayli01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thayli.yanasupo.27@gmail.com)
 
 ---
 
@@ -24,7 +24,7 @@ Estudiante de **Ingeniería de Sistemas**, enfocada en el desarrollo de software
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-#### Bases de Datos & herramientas
+#### Bases de datos & herramientas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,9 +35,6 @@ Estudiante de **Ingeniería de Sistemas**, enfocada en el desarrollo de software
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Thayli01&show_icons=true&theme=dark&hide_border=true" />
-</p>
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Thayli01&theme=dark&hide_border=true" />
 </p>
